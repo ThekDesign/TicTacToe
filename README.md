@@ -1,2 +1,2 @@
 # TicTacToe
-testing~
+a computer you can't win!
