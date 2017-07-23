@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#afb0b3</color>
+    <color name="colorPrimaryDark">#747474</color>
+    <color name="colorAccent">#f5729f</color>
+    <color name="fab_plus">#eda342</color>
+    <color name="fab_twoplayers">#6e96e7</color>
+    <color name="fab_withcpu">#f25560</color>
+</resources>
